@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "stateful-forms",
+  "repo": "jeroenransijn/stateful-forms",
+  "files": {
+    "include": ["dist/stateful-forms.min.js", "dist/stateful-forms.min.js.map"]
+  }
+}
